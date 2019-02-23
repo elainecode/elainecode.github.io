@@ -39,7 +39,7 @@ body {
 
 .description-container p {
         line-height: 1.5rem;
-        text-align: left;
+        text-align: center;
 }
 
 p:not(.title) {
